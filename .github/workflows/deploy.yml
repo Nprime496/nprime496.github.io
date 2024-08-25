@@ -25,7 +25,9 @@ jobs:
         with:
           node-version: 22
       - name: Install Dependencies
-        run: npm ci
+        run: |
+          cd quartz
+          npx quartz build --directory=../vault
       - name: Build Quartz
         run: |
           cd quartz

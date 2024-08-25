@@ -31,7 +31,7 @@ jobs:
       - name: Build Quartz
         run: |
           cd quartz
-          npx quartz build --directory=../vault
+          npx quartz build --directory=../website_content
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

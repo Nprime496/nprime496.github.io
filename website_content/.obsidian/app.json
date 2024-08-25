@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "RESSOURCES/_assets",
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "readableLineLength": true,
+  "livePreview": true,
+  "newLinkFormat": "absolute"
+}

@@ -1,4 +1,4 @@
 ---
 publish: "true"
 ---
-This is nprime's website, [more content](More.md) coming soon.
+This is nprime's website, [more content](RESSOURCES/More.md) coming soon.

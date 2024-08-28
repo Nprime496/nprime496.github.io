@@ -1,5 +1,7 @@
-website_content/.obsidian/workspace
-website_content/.obsidian/themes
-website_content/.obsidian/appearance.json
-website_content/.obsidian/workspace.json
-website_content/.obsidian/plugins/
+.obsidian/workspace
+.obsidian/themes
+.obsidian/appearance.json
+.obsidian/workspace.json
+.obsidian/plugins/
+website_content/PROJECTS/*
+PROJECTS/

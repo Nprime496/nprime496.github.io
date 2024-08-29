@@ -38,12 +38,12 @@ Malheureusement, Everything n'est disponible que pour les systèmes Windows et p
 
 Pour l'installer, rien de plus simple, il faut le [télécharger ici](https://www.voidtools.com/en-us/downloads/) et [suivre la procédure expliquée ici](https://www.voidtools.com/en-us/support/everything/installing_everything/).
 
-Et voilà ! vous pouvez profiter de la magie d'Everything.
+Et voilà ! vous pouvez profiter de vos fichiers sans tracas !
 
 
 # Mot de la fin
 
-Ça doit faire 03 ans que je n'ai pas utilisé Windows comme OS personnel et par la même Everything mais si le problème dont j'ai parlé vous fait sonner des cloches, alors Everything est peut-être la solution. 
+Ça doit faire 03 ans que je n'ai pas utilisé Windows comme OS personnel et par la même Everything mais si le problème dont j'ai parlé vous écho, alors vous avez peut-être la solution. 
 
 A bientôt pour un prochain article.
 

@@ -3,6 +3,7 @@ tags:
   - ressources/pareto
   - resources/tech
   - misc/windows
+  - lang/fr
 publish: "true"
 ---
 

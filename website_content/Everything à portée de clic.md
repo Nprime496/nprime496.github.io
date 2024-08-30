@@ -7,7 +7,7 @@ tags:
 publish: "true"
 ---
 
-# Ça vous est déjà arrivé...
+## Ça vous est déjà arrivé...
 
 
 Est-ce que ça vous est déjà arrivé de chercher un fichier ou un dossier pendant des heures dans votre ordinateur sans le trouver ? Vous savez qu'il est là, vous vous souvenez (en partie) du nom et pourtant impossible de le retrouver dans le méli-mélo de vos dossiers...
@@ -16,7 +16,7 @@ Moi si ! C'est très frustrant surtout quand on retrouve le fichier "perdu" des 
 
 Heureusement, j'avais résolu ce problème il y a quelques années même s'il me hante encore aujourd'hui (vous comprendrez pourquoi dans la suite).
 
-# La solution 
+## La solution 
 
 Pendant longtemps, j'ai pu résoudre ce problème grâce à un logiciel fantastique appelé ✨ "Everything" ✨ (Il a même [une page wikipédia](https://en.wikipedia.org/wiki/Everything_(software))).
 
@@ -33,7 +33,7 @@ Toujours pas convaincu ? Une petite démo alors.
 ![Everything - The Better Windows Search (Showcase) - YouTube](https://www.youtube.com/watch?v=GVtQGyjzgS4)
 
 
-# Comment en profiter ?
+## Comment en profiter ?
 
 Malheureusement, Everything n'est disponible que pour les systèmes Windows et pas Linux (que j'utilise actuellement).
 
@@ -42,7 +42,7 @@ Pour l'installer, rien de plus simple, il faut le [télécharger ici](https://ww
 Et voilà ! vous pouvez profiter de vos fichiers sans tracas !
 
 
-# Mot de la fin
+## Mot de la fin
 
 Ça doit faire 03 ans que je n'ai pas utilisé Windows comme OS personnel et par la même Everything mais si le problème dont j'ai parlé vous écho, alors vous avez peut-être la solution. Et de façon générale, si vous trouvez un fichier que vous n'auriez pas trouvé sans Everything, pensez à le renommer mieux ou à mieux le ranger dans vos répertoires pour le trouver plus facilement la prochaine fois dans un bon esprit de [Pareto](Pareto.md).
 

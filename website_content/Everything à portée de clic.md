@@ -43,7 +43,7 @@ Et voilà ! vous pouvez profiter de vos fichiers sans tracas !
 
 # Mot de la fin
 
-Ça doit faire 03 ans que je n'ai pas utilisé Windows comme OS personnel et par la même Everything mais si le problème dont j'ai parlé vous écho, alors vous avez peut-être la solution. 
+Ça doit faire 03 ans que je n'ai pas utilisé Windows comme OS personnel et par la même Everything mais si le problème dont j'ai parlé vous écho, alors vous avez peut-être la solution. Et de façon générale, si vous trouvez un fichier que vous n'auriez pas trouvé sans Everything, pensez à le renommer mieux ou à mieux le ranger dans vos répertoire pour accélerer la prochaine fois dans un bon esprit de Pareto.
 
 A bientôt pour un prochain article.
 

@@ -49,3 +49,13 @@ Et voilà ! vous pouvez profiter de vos fichiers sans tracas !
 A bientôt pour un prochain article.
 
 Merci de m'avoir lu.
+
+
+<script src="https://utteranc.es/client.js"
+        repo=
+        "nprime496/nprime496.github.io"
+        issue-term="everything_tool"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

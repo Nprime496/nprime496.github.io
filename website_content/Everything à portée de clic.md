@@ -51,11 +51,20 @@ A bientôt pour un prochain article.
 Merci de m'avoir lu.
 
 
-<script src="https://utteranc.es/client.js"
-        repo=
-        "nprime496/nprime496.github.io"
-        issue-term="everything_tool"
-        theme="github-light"
+<script src="https://giscus.app/client.js"
+        data-repo="nprime496/nprime496.github.io"
+        data-repo-id="R_kgDOG_9eXQ"
+        data-category="General"
+        data-category-id="DIC_kwDOG_9eXc4CiJ71"
+        data-mapping="specific"
+        data-term="everything_tool"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
         crossorigin="anonymous"
         async>
 </script>

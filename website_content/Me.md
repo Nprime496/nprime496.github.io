@@ -14,7 +14,7 @@ timeline
 
     2017-2021 : Ingénierie Informatique, Ecole Nationale Supérieure Polytechnique de Yaoundé
     2021-2023 : Master Data & IA, Ecole Nationale Supérieure d'Informatique et Mathématiques Appliquées de Grenoble
-    2024 : Consultant Data & AI
+    2024 : Consultant Data & AI Deloitte
 ```
 
 

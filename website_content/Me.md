@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 # About
 
 Je suis N'nane, camerounais, consultant Cloud spécialisé en Data Science et Intelligence artificielle, travaillant aujourd'hui en France.

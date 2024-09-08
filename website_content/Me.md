@@ -5,7 +5,7 @@ publish: "true"
 
 Je suis N'nane, camerounais, consultant Cloud spécialisé en Data Science et Intelligence artificielle, travaillant aujourd'hui en France.
 
-J'ai une formation en ingénierie informatique et un master en data science et IA et la chance de travailler sur des sujets de pointe. Je travaille notamment l'utilisation du Cloud pour s'approprier des solutions Machine Learning or d'IA générative pour des entreprises de moyenne et très grande taille.
+J'ai une formation en ingénierie informatique et un master en data science et IA et la chance de travailler sur des sujets de pointe. Je travaille notamment l'utilisation du Cloud pour s'approprier des solutions Machine Learning ou d'IA générative pour des entreprises de moyenne et très grande taille.
 
 
 ```mermaid

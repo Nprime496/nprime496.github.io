@@ -50,6 +50,19 @@ A bientôt pour un prochain article.
 
 Merci de m'avoir lu.
 
+# A propos de moi et ce blog
+
+Je suis N'nane, consultant cloud en Data Science et IA. Ce blog partage mes expériences sur l'IA, la data et le cloud, avec des contenus pratiques et personnels pour les passionnés et professionnels.
+
+Plus de détails [ici](Me.md).
+
+# Historique d'éditions
+
+| Date       | Description                                                      |
+| ---------- | ---------------------------------------------------------------- |
+| 2024-09-02 | Version initiale                                                 |
+| 2024-09-08 | Ajout d'une section "About Me" et section de mention d'éditions. |
+
 
 <script src="https://giscus.app/client.js"
         data-repo="nprime496/nprime496.github.io"

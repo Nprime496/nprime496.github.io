@@ -16,7 +16,7 @@ Il m'est arrivé, plus d'une fois, d'entendre cette phrase ou une variation, dè
 
 En effet, au moment où l'afrique souffre de beaucoup de maux "de base", la course à cette technologie du futur semble être vaine : accès à internet restreint, problèmes de santé publique, corruption, peu d'accès à la technologie de base, etc. Cependant, je pense qu'il y a des opportunités et une nécessité grandissante chez les acteurs de la tech sur le continent. 
 
-J'espère ainsi vous convaincre (si ce n'est pas déjà le cas) que ça vaut sûrement le coup de créer nos solutions d'IA en afrique : des chatGPT africains.
+J'espère ainsi vous convaincre (si ce n'est pas déjà le cas) que ça vaut sûrement le coup de créer des solutions d'IA en afrique : des chatGPT africains.
 
 ## Qu'est-ce que ~~ChatGPT~~ un LLM?
 
@@ -58,7 +58,7 @@ Au regard de ces réalités, l'inaction semble difficilement être un choix rais
 ## Conclusion
 
 
-Ces technologies définissent déjà le monde dans lequel on vit et continueront de le changer profondément. Les acteurs de la tech africains ont tout intérêt comme leurs homologues à prendre les devants sur ces technologies qui feront part intégrante de nos vies numériques.
+Ces technologies définissent déjà le monde dans lequel on vit et continueront de le changer profondément. Les acteurs de la tech africains ont tout intérêt comme leurs homologues à prendre les devants sur ces technologies qui feront part intégrante du futur numérique.
 
 
 A la vérité, l'Afrique n'a pas attendu mon article pour s'en rendre compte et de nombreuses initiatives sont déjà à l'oeuvre malgré les difficultés. Celà fera l'objet d'autres publications.

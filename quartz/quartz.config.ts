@@ -8,11 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "496 Tales",
+    pageTitle: "N'nane",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId:"",
     },
     locale: "en-US",
     baseUrl: "blog.nnane.xyz",

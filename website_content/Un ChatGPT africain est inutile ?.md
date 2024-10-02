@@ -118,6 +118,7 @@ Je suis N'nane, camerounais et consultant résidant en France. J'accompagne des 
 	</style>
 <center>
 		<h3>Suivez-moi sur mes réseaux pour plus de contenu</h3>
+		<a href="https://linkedin.com/in/nnane" class="fa fa-linkedin">
 		<a href="https://x.com/nnane_d" class="fa fa-twitter"></a>
 		<!--<a href="#" class="fa fa-reddit"></a>-->
 </center>

@@ -55,6 +55,75 @@ Je suis N'nane, consultant cloud en Data Science et IA. Ce blog partage mes exp�
 
 Plus de détails [ici](Me.md).
 
+
+<meta name="viewport" content=
+		"width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+<style>
+		.fa:hover {
+			opacity: 1.9;
+		}
+		
+
+		.fa-linkedin {
+			background: "#007bb5";
+		}
+		.fa-twitter {
+			background: "#007bb5";
+
+		}
+		
+		.fa-pinterest {
+			background: "#cb2027";
+			color: white;
+		}
+		a {
+			"text-color": red
+		}
+
+		.fa-reddit {
+			background: "#ff5700";
+			color: white;
+		}
+
+		.fa {
+			padding: 20px;
+			font-size: 40px;
+			width: 60px;
+			text-decoration: none;
+			margin: 5px 80px;
+		     opacity: 0.5;
+		}
+	</style>
+<center>
+		<h3>Abonnez-vous pour plus de contenu</h3>
+		<a href="https://linkedin.com/in/nnane" class="fa fa-linkedin">
+		<a href="https://x.com/nnane_d" class="fa fa-twitter"></a>
+		<!--<a href="#" class="fa fa-reddit"></a>-->
+</center>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="nprime496/nprime496.github.io"
+        data-repo-id="R_kgDOG_9eXQ"
+        data-category="General"
+        data-category-id="DIC_kwDOG_9eXc4CiJ71"
+        data-mapping="specific"
+        data-term="chatgpt_africa"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
 # Historique d'éditions
 
 | Date       | Description                                                      |

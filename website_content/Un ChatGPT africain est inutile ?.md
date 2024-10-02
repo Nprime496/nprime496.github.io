@@ -6,6 +6,7 @@ tags:
   - areas/transformation
 aliases:
   - chatgpt_en_afrique
+  - Un ChatGPT africain est inutile
 ---
 ![](assets/africa_touch_tech.png)
 
@@ -20,9 +21,7 @@ J'espère ainsi vous convaincre (si ce n'est pas déjà le cas) que ça vaut sû
 
 ## Qu'est-ce que ~~ChatGPT~~ un LLM?
 
-ChatGPT est un assistant conversationnel développé par OpenAI, une compagnie américaine.
-
-Il se base sur une technologie qui a fait un essor de démocratiation énorme : "les grands modèles de langages" (Large Language Model, LLM). Ce sont des outils qui sont entraînés sur des quantités astronomiques de texte pour le comprendre et le reproduire, ce qui donne un outil **capable de comprendre le texte naturel et répondre en langage naturel**.
+ChatGPT est un assistant conversationnel développé par OpenAI, une compagnie américaine. Il se base sur une technologie qui a fait un essor de démocratiation énorme : "les grands modèles de langages" (Large Language Model, LLM). Ce sont des outils qui sont entraînés sur des quantités astronomiques de texte pour le comprendre et le reproduire, ce qui donne un outil **capable de comprendre le texte naturel et répondre en langage naturel**.
 
 Citer ses usages se révèle un peu vain, tout le monde (ou presque) l'a déjà utilisé et si vous avez ouvert cet article, vous savez au moins à quoi il pourrait servir sinon, vous pouvez regarder ces [exemples d'application](https://www.coursera.org/articles/llm-use-cases).
 
@@ -43,6 +42,8 @@ Il y a également un enjeu scientifique majeur avec un [regain d'intérêt pour 
 Et tous ces enjeux économiques, de société et scientifiques, interrogent les gouvernements qui doivent [intervenir pour réguler](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence).
 
 Bref, tout un programme. 
+
+La question de savoir si un chatGPT est utile pose en fait celle de savoir s'il y a l'utilité de créer des solutions pareilles (LLMs) en afrique comme le font les états unis mais aussi d'autres comme [la chine](https://restofworld.org/2024/alibaba-qwen-ai-model/) et [l'Europe](https://www.youtube.com/watch?v=_kcnrG6Yxfo).
 
 ## Et l'Afrique dans tout ça ?
 
@@ -116,8 +117,7 @@ Je suis N'nane, camerounais et consultant résidant en France. J'accompagne des 
 		}
 	</style>
 <center>
-		<h3>Abonnez-vous pour plus de contenu</h3>
-		<a href="https://linkedin.com/in/nnane" class="fa fa-linkedin"></a>
+		<h3>Suivez-moi sur mes réseaux pour plus de contenu</h3>
 		<a href="https://x.com/nnane_d" class="fa fa-twitter"></a>
 		<!--<a href="#" class="fa fa-reddit"></a>-->
 </center>

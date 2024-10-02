@@ -6,7 +6,7 @@ tags:
   - areas/transformation
 aliases:
   - chatgpt_en_afrique
-  - Un ChatGPT africain est inutile
+  - Un-ChatGPT-africain-est-inutile
 ---
 ![](assets/africa_touch_tech.png)
 

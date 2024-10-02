@@ -7,6 +7,7 @@ tags:
 publish: "true"
 ---
 
+![](illustration_frustrated_computer.png)
 ## Ça vous est déjà arrivé...
 
 
@@ -19,8 +20,6 @@ Heureusement, j'avais résolu ce problème il y a quelques années même s'il me
 ## La solution 
 
 Pendant longtemps, j'ai pu résoudre ce problème grâce à un logiciel fantastique appelé ✨ "Everything" ✨ (Il a même [une page wikipédia](https://en.wikipedia.org/wiki/Everything_(software))).
-
-![](assets/everything_illustration.png)
 
 Everything est un logiciel de recherche de fichiers pour Windows. 
 
@@ -62,6 +61,7 @@ Plus de détails [ici](Me.md).
 | ---------- | ---------------------------------------------------------------- |
 | 2024-09-02 | Version initiale                                                 |
 | 2024-09-08 | Ajout d'une section "About Me" et section de mention d'éditions. |
+| 2024-10-02 | Ajout illustration                                               |
 
 
 <script src="https://giscus.app/client.js"
